@@ -4,9 +4,11 @@ I write code (shocker, I know)
 <br>
 Mostly Unity/C# but I do Java and web dev too
 
-## Quote of the Day <sub> not actually daily </sub>
+## Quote of the Day* 
 
-> "Much like punching someone in the dark, it is a victimless crime" -TheRussianBadger 
+> "Much like punching someone in the dark, it is a victimless crime" -TheRussianBadger
+
+<sub> *not actually daily </sub>
 
 
 <!--
