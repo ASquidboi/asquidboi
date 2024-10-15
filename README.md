@@ -6,7 +6,8 @@ Mostly Unity/C# but I do Java and web dev too
 
 ## Quote of the Day* 
 
-> "To the people that stole our robotics stuff, I hope you step on a lego and then get hand sanitizer in the miniscule cuts on your hands" -Me
+> "To the people that stole our robotics stuff, I hope you step on a lego and then get hand sanitizer in the miniscule cuts on your hands"
+>  -Me
 
 <sub> *not actually daily </sub>
 
