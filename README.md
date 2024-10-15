@@ -3,6 +3,11 @@
 I write code (shocker, I know)
 <br>
 Mostly Unity/C# but I do Java and web dev too
+<br>
+<br>
+I love how github says "Popular Repositories" like anyone actually pays attention to the code i write lmao
+<br>
+(For my sake let's hope nobody does... right?)
 
 ## Quote of the Day* 
 
