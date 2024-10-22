@@ -11,7 +11,7 @@ I love how github says "Popular Repositories" like anyone actually pays attentio
 
 ## Quote of the Day* 
 
-> "To the people that stole our robotics stuff, I hope you step on a lego and then get hand sanitizer in the miniscule cuts on your hands"
+> "Florida is just a gmod rp server with no moderation"
 > <br>
 >  -Me
 
