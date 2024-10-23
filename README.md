@@ -11,7 +11,7 @@ I love how github says "Popular Repositories" like anyone actually pays attentio
 
 ## Quote of the Day* 
 
-> "Florida is just a gmod rp server with no moderation"
+> "If unity crashes ONE MORE DAMN TIME i'm switching to godot, it will be a painful experience for both of us"
 > <br>
 >  -Me
 
