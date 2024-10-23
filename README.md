@@ -5,6 +5,9 @@ I write code (shocker, I know)
 Mostly Unity/C# but I do Java and web dev too
 <br>
 <br>
+5 days until game jam is over, god i love procrastination
+<br>
+<br>
 I love how github says "Popular Repositories" like anyone actually pays attention to the code i write lmao
 <br>
 (For my sake let's hope nobody does... right?)
