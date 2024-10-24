@@ -17,7 +17,7 @@ look at the pinned code it's cool and stuff idk
 
 ## Quote of the Day* 
 
-> "i have 3 days (3 + 4 = 7 right?) to finish an entire game"
+> "i have 3 days (3 + 4 = 7 right?) to finish making an entire game"
 > <br>
 >  -Me
 
