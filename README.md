@@ -14,7 +14,7 @@ I love how github says "Popular Repositories" like anyone actually pays attentio
 
 ## Quote of the Day* 
 
-> "If unity crashes ONE MORE DAMN TIME i'm switching to godot, it will be a painful experience for both of us"
+> "i have 3 days (3 + 4 = 7 right?) to finish an entire game haha"
 > <br>
 >  -Me
 
