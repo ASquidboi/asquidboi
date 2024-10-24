@@ -14,7 +14,7 @@ I love how github says "Popular Repositories" like anyone actually pays attentio
 
 ## Quote of the Day* 
 
-> "i have 3 days (3 + 4 = 7 right?) to finish an entire game haha"
+> "i have 3 days (3 + 4 = 7 right?) to finish an entire game"
 > <br>
 >  -Me
 
