@@ -17,7 +17,7 @@ look at the pinned code it's cool and stuff idk
 
 ## Quote of the Day* 
 
-> "i have 0 days  to finish making an entire game, except i can't build it.  This is a certified ungood moment"
+> "game has been submitted wish me luck"
 > <br>
 >  -Me
 
