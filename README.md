@@ -17,7 +17,7 @@ look at the pinned code it's cool and stuff idk
 
 ## Quote of the Day* 
 
-> "Breaking news, an orange with a blonde wig is now the president"
+> "Breaking news, an racist orange with a blonde wig is now the president"
 > <br>
 >  -Me
 
