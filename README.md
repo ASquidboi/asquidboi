@@ -17,7 +17,7 @@ look at the pinned code it's cool and stuff idk
 
 ## Quote of the Day* 
 
-> "Breaking news, an racist orange with a blonde wig is now the president"
+> "Oh boy i sure do hope this GoBilda 5203 doesn't literally melt and potentially explode!"
 > <br>
 >  -Me
 
