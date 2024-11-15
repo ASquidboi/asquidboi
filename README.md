@@ -17,7 +17,7 @@ look at the pinned code it's cool and stuff idk
 
 ## Quote of the Day* 
 
-> "Oh boy i sure do hope this GoBilda 5203 doesn't literally melt and potentially explode!"
+> "Does this GoBilda 5203 have any safety features? I hope s-"
 > <br>
 >  -Me
 
