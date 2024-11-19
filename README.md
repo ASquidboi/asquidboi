@@ -17,9 +17,9 @@ look at the pinned code it's cool and stuff idk
 
 ## Quote of the Day* 
 
-> "one second"
+> ""
 > <br>
->  -KV
+>  -
 
 <sub> *not actually daily </sub>
 
