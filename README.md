@@ -17,9 +17,9 @@ look at the pinned code it's cool and stuff idk
 
 ## Quote of the Day* 
 
-> "Does this GoBilda 5203 have any safety features? I hope s-"
+> "one second"
 > <br>
->  -Me
+>  -KV
 
 <sub> *not actually daily </sub>
 
