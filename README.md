@@ -17,9 +17,9 @@ look at the pinned code it's cool and stuff idk
 
 ## Quote of the Day* 
 
-> ""
+> "mmmmm soup"
 > <br>
->  -
+>  -A wise frog
 
 <sub> *not actually daily </sub>
 
