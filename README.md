@@ -17,9 +17,9 @@ look at the pinned code it's cool and stuff idk
 
 ## Quote of the Day* 
 
-> "mmmmm soup"
+> "I have a plan Arthur, i just need $2 trillion in taxpayer dollars"
 > <br>
->  -A wise frog
+>  -Dutch
 
 <sub> *not actually daily </sub>
 
