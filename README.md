@@ -5,7 +5,7 @@ I write code (shocker, I know)
 Mostly Unity/C# but I do Java and web dev too
 <br>
 <br>
-Currently in the middle of a game jam, very cool
+
 <br>
 <br>
 I love how github says "Popular Repositories" like anyone actually pays attention to the code i write lmao
