@@ -17,9 +17,9 @@ look at the pinned code it's cool and stuff idk
 
 ## Quote of the Day* 
 
-> "I have a plan Arthur, i just need $2 trillion in taxpayer dollars"
+> "Ah, that appears to be on fire"
 > <br>
->  -Dutch
+>  -Me
 
 <sub> *not actually daily </sub>
 
