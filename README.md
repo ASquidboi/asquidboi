@@ -17,9 +17,9 @@ look at the pinned code it's cool and stuff idk
 
 ## Quote of the Day* 
 
-> "Ah, that appears to be on fire"
+> ""
 > <br>
->  -Me
+>  -
 
 <sub> *not actually daily </sub>
 
