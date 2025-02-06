@@ -2,15 +2,15 @@
 <br>
 I write code (shocker, I know)
 <br>
-Mostly Unity/C# but I do Java and web dev too
+Mostly Unity/C# and Java but I do web dev and small python projects too
 <br>
 <br>
-
+Frontend? Backend? Full-stack?
 <br>
 <br>
 I love how github says "Popular Repositories" like anyone actually pays attention to the code i write lmao
 <br>
-(For my sake let's hope nobody does... right?)
+(For my sake let's hope nobody does... right? 👀)
 <br>
 <br>
 look at the pinned code it's cool and stuff idk
