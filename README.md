@@ -5,7 +5,7 @@ I write code (shocker, I know)
 Mostly Unity/C# and Java but I do web dev and small python projects too
 <br>
 <br>
-Frontend? Backend? Full-stack?
+Frontend? Backend? Full-stack? Stack of pancakes?
 <br>
 <br>
 I love how github says "Popular Repositories" like anyone actually pays attention to the code i write lmao
