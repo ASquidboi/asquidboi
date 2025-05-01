@@ -5,6 +5,9 @@ I write code (shocker, I know)
 Mostly Unity/C# and Java but I do web dev and small python projects too
 <br>
 <br>
+Learning Rust <sub>please help me</sub>
+<br>
+<br>
 Frontend? Backend? Full-stack? Stack of pancakes?
 <br>
 <br>
