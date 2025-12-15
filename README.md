@@ -5,20 +5,9 @@ I write code (shocker, I know)
 Mostly Unity/C# and Java but I do web dev and small python projects too
 <br>
 <br>
-Learning Rust <sub>please help me</sub>
-<br>
-<br>
-Frontend? Backend? Full-stack? Stack of pancakes?
-<br>
-<br>
-I love how github says "Popular Repositories" like anyone actually pays attention to the code i write lmao
-<br>
-(For my sake let's hope nobody does... right? 👀)
-<br>
-<br>
-look at the pinned code it's cool and stuff idk
+CyberPatriot Platinum division woohoo
 
-## Quote of the Day* 
+##  MotD
 
 > ""
 > <br>
