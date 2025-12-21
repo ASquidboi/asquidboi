@@ -5,7 +5,7 @@ I write code (shocker, I know)
 Mostly Unity/C# and Java but I do web dev and small python projects too
 <br>
 <br>
-CyberPatriot Platinum division woohoo
+CyberPatriot Platinum division
 
 ##  MotD
 
