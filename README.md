@@ -2,10 +2,13 @@
 <br>
 I write code (shocker, I know)
 <br>
-Mostly Unity/C# and Java but I do web dev and small python projects too
+Python, C#, Java, web dev
 <br>
 <br>
-CyberPatriot participant (plat)
+CyberPatriot platinum div
+<br>
+<br>
+
 
 ##  MotD
 
